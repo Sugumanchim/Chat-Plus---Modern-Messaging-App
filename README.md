@@ -19,3 +19,18 @@ Chat-Plus is a sleek, real-time messaging application built for smooth and intui
 ## 🧪 Sample Chat
 
 > **User:** John Doe (Online)
+> 
+---
+
+## 🛠️ Tech Stack (Suggested)
+
+| Layer       | Technology                     |
+|-------------|--------------------------------|
+| Frontend    | React, TypeScript, Tailwind CSS|
+| Backend     | Node.js, Express.js            |
+| Real-time   | Socket.io or Firebase          |
+| Database    | MongoDB or PostgreSQL          |
+| Auth        | JWT, OAuth2                    |
+
+---
+
