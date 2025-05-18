@@ -19,7 +19,14 @@ Chat-Plus is a sleek, real-time messaging application built for smooth and intui
 ## 🧪 Sample Chat
 
 > **User:** John Doe (Online)
-> 
+> 11:54 AM – Hi! How are you?
+11:56 AM – I'm doing great, thanks for asking!
+11:57 AM – What about you?
+11:59 AM – Pretty good! Just working on some projects.
+12:01 PM – That sounds interesting. What kind of projects?
+12:02 PM – Mostly web development stuff. Building a chat app actually!
+12:04 PM – That's cool! Like this one?
+12:06 PM – Exactly! 😊
 ---
 
 ## 🛠️ Tech Stack (Suggested)
